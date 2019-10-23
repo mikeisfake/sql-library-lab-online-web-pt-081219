@@ -1,1 +1,1 @@
-UPDATE characters SET characters.name = "Martian" WHERE characters.name = "Eddard Stark"
+UPDATE characters SET name = "Martian" WHERE name = "Eddard Stark"
